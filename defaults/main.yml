@@ -1,0 +1,6 @@
+---
+krb_realm: 'EXAMPLE.COM'
+krb_server: 'krbserver.example.com'
+krb_domain: 'example.com'
+
+krb_client_dir_log: '{{ krb_dir_log }}'

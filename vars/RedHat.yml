@@ -1,0 +1,6 @@
+---
+krb_packages_client:
+  - krb5-workstation
+  - krb5-libs
+
+krb_dir_log: /var/log/krb
